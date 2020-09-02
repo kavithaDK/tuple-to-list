@@ -1,1 +1,5 @@
-# tuple-to-list
+K= (3,4,5)
+Print(k)
+Print(type(k))
+L=list(k)
+Print(type(k))
